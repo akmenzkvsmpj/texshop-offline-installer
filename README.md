@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-LaTeX+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 TeXShop Free Installer** — TeXShop is a free macOS LaTeX editor with a built-in PDF previewer that provides a streamlined writing environment for LaTeX documents. Works without internet access, no account required. Full offline installation.
+**💻 TeXShop Free Installer** — TeXShop is a free macOS LaTeX editor and PDF viewer with a clean, native macOS interface. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About TeXShop
 
-TeXShop is a free macOS LaTeX editor with a built-in PDF previewer that provides a streamlined writing environment for LaTeX documents. The standard LaTeX editor for macOS users, it integrates tightly with the MacTeX distribution.
+TeXShop is a free macOS LaTeX editor and PDF viewer with a clean, native macOS interface. Write LaTeX source in one pane, typeset with a single click, and preview the result in an integrated PDF viewer with source syncing. TeXShop is the standard LaTeX editor for macOS, tightly integrated with MacTeX and supported by a large academic community.
 
 ---
 
 ## ❌ Problem: TeXShop is hard to access
 
-- **macOS Only** — No Windows or Linux version; part of the MacTeX ecosystem
-- **LaTeX Required** — Requires MacTeX distribution for document compilation
-- **Basic Feature Set** — Fewer features than TeXstudio or VS Code with LaTeX Workshop
-- **LaTeX Learning Curve** — Requires learning LaTeX markup for document creation
+- **macOS Only** — No Windows or Linux version
+- **LaTeX Only** — Not suitable for non-LaTeX document workflows
+- **Feature Scope** — More basic than TeXstudio for power users needing advanced completion
+- **No Live Preview** — Requires explicit compilation command to update the PDF preview
 
 ---
 
@@ -121,7 +121,7 @@ TeXShop is a free macOS LaTeX editor with a built-in PDF previewer that provides
 
 ---
 
-**TeXShop Free Installer** — TeXShop is a free macOS LaTeX editor with a built-in PDF previewer that provides a streamlined writing environment for LaTeX documents. Install without internet connection today!
+**TeXShop Free Installer** — TeXShop is a free macOS LaTeX editor and PDF viewer with a clean, native macOS interface. Install without internet connection today!
 
 <div align="center">
 
